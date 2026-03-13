@@ -1,0 +1,144 @@
+
+
+=== EMAIL SENT ===
+To: rithika2k2005@gmail.com
+Subject: ⚠️ URGENT: Pending Course Feedback Required
+Message:
+Dear rithika ,
+
+This is a MANDATORY reminder that you have NOT submitted feedback for the following courses:
+
+- Introduction to Programming (CS101) - Semester 1
+- Data Structures (CS201) - Semester 2
+- Database Systems (CS202) - Semester 2
+- Web Development (CS301) - Semester 3
+- Software Engineering (CS401) - Semester 4
+
+⚠️ IMPORTANT: Submitting feedback is COMPULSORY for all students.
+Please login immediately and complete your feedback:
+http://localhost:8000/login_student.php
+
+Failure to submit feedback may affect your academic records.
+
+Thank you,
+Student Feedback System
+Time: 2026-03-13 06:47:36
+
+
+=== EMAIL SENT ===
+To: rithika2k2005@gmail.com
+Subject: ⚠️ URGENT: Pending Course Feedback Required
+Message:
+Dear rithika ,
+
+This is a MANDATORY reminder that you have NOT submitted feedback for the following courses:
+
+- Introduction to Programming (CS101) - Semester 1
+- Data Structures (CS201) - Semester 2
+- Database Systems (CS202) - Semester 2
+- Web Development (CS301) - Semester 3
+- Software Engineering (CS401) - Semester 4
+
+⚠️ IMPORTANT: Submitting feedback is COMPULSORY for all students.
+Please login immediately and complete your feedback:
+http://localhost:8000/login_student.php
+
+Failure to submit feedback may affect your academic records.
+
+Thank you,
+Student Feedback System
+Time: 2026-03-13 06:58:06
+
+
+=== EMAIL SENT ===
+To: xig1pallavi.p@gmail.com
+Subject: ⚠️ URGENT: Pending Course Feedback Required
+Message:
+Dear Pallavi P,
+
+This is a MANDATORY reminder that you have NOT submitted feedback for the following courses:
+
+- Introduction to Programming (CS101) - Semester 1
+- Database Systems (CS202) - Semester 2
+- Data Structures (CS201) - Semester 2
+- Web Development (CS301) - Semester 3
+- Software Engineering (CS401) - Semester 4
+
+⚠️ IMPORTANT: Submitting feedback is COMPULSORY for all students.
+Please login immediately and complete your feedback:
+http://localhost:8000/login_student.php
+
+Failure to submit feedback may affect your academic records.
+
+Thank you,
+Student Feedback System
+Time: 2026-03-13 06:58:06
+
+=== EMAIL SENT ===
+To: rithika2k2005@gmail.com
+Subject: ⚠️ URGENT: Submit Your Course Feedback
+Message:
+Dear rithika ,
+
+You have NOT submitted feedback for the following courses:
+
+- Introduction to Programming (CS101)
+- Data Structures (CS201)
+- Web Development (CS301)
+- Database Systems (CS202)
+- Software Engineering (CS401)
+
+Please login and submit your feedback immediately:
+http://localhost:8000/login_student.php
+
+This is MANDATORY.
+
+Thank you,
+Admin
+Time: 2026-03-13 07:35:28
+
+=== EMAIL SENT ===
+To: xig1pallavi.p@gmail.com
+Subject: ⚠️ URGENT: Submit Your Course Feedback
+Message:
+Dear Pallavi P,
+
+You have NOT submitted feedback for the following courses:
+
+- Introduction to Programming (CS101)
+- Data Structures (CS201)
+- Web Development (CS301)
+- Database Systems (CS202)
+- Software Engineering (CS401)
+
+Please login and submit your feedback immediately:
+http://localhost:8000/login_student.php
+
+This is MANDATORY.
+
+Thank you,
+Admin
+Time: 2026-03-13 07:36:13
+
+=== EMAIL SENT ===
+To: rithika2k2005@gmail.com
+Subject: ⚠️ URGENT: Submit Your Course Feedback
+Message:
+Dear rithika ,
+
+You have NOT submitted feedback for the following courses:
+
+- Introduction to Programming (CS101)
+- Data Structures (CS201)
+- Web Development (CS301)
+- Database Systems (CS202)
+- Software Engineering (CS401)
+
+Please login and submit your feedback immediately:
+http://localhost:8000/login_student.php
+
+This is MANDATORY.
+
+Thank you,
+Admin
+Time: 2026-03-13 07:51:04
